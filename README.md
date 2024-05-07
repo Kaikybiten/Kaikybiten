@@ -2,9 +2,9 @@
 
 - 🌱 learning Python;
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikybitencourt){:target="_blank"}
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiky.developer@gmail.com?subject=&body=){:target="_blank"}
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1206809706199253004){:target="_blank"}
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikybitencourt)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiky.developer@gmail.com?subject=&body=)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1206809706199253004)
 
   ![kaikybiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikybiten&show_icons=true&theme=dark)
   
