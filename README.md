@@ -1,28 +1,16 @@
-<h2>Hey, my name's Kaiky;</h2>
+## Hey, my name's Kaiky;
 
-<ul>
-  <li>🌱 learning Python;</li>
-</ul>
+- 🌱 learning Python;
 
-<p>
-  <a href="https://linkedin.com/in/kaikybitencourt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kaiky.developer@gmail.com?subject=&body=" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="http://discordapp.com/users/1206809706199253004" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikybitencourt)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiky.developer@gmail.com?subject=&body=)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1206809706199253004)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaikybiten&show_icons=true&theme=dark" alt="kaikybiten's GitHub stats">
+![kaikybiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikybiten&show_icons=true&theme=dark)
 
-<h3>🛠️ My skills;</h3>
+### 🛠️ My skills;
 
-<p>
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GML">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-</p>
+![GML](https://skillicons.dev/icons?i=gamemakerstudio)
+![Python](https://skillicons.dev/icons?i=python)
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
