@@ -21,16 +21,8 @@
 <h3>🛠️ My skills;</h3>
 
 <p>
-  <a href="https://skillicons.dev/icons?i=gamemakerstudio" target="_blank">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GML">
-  </a>
-  <a href="https://skillicons.dev/icons?i=python" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python">
-  </a>
-  <a href="https://skillicons.dev/icons?i=css" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-  </a>
-  <a href="https://skillicons.dev/icons?i=html" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-  </a>
 </p>
