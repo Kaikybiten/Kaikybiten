@@ -1,4 +1,4 @@
-<h1>Hey, my name's Kaiky;</h1>
+<h2>Hey, my name's Kaiky;</h2>
 
 <ul>
   <li>🌱 learning Python;</li>
