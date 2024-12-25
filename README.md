@@ -12,3 +12,4 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
+![JAVA](https://skillicons.dev/icons?i=java)
